@@ -1,6 +1,6 @@
 # Aman Mehta
 
-Full Stack Developer / AI-ML Engineer. BTech CS student at Uttarakhand Technical University (2026). Based in Ranchi, India.
+Full Stack Developer
 
 Working with Next.js, TypeScript, Node.js, PostgreSQL, Prisma, and LangGraph/RAG pipelines.
 
