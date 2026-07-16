@@ -64,4 +64,4 @@ Long-term, I'm working toward relocating to Japan — which is part of why a cou
 
 ---
 
-<p align="center"><i>Last edited: 7/16/2026</i></p>
+
