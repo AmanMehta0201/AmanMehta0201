@@ -50,19 +50,6 @@ Long-term, I'm working toward relocating to Japan — which is part of why a cou
 **[ChessInit](https://chessinit.dev)** — a chess coaching booking site with a full booking/payments stack (Next.js, Razorpay, Resend, Google Calendar API).
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanMehta0201&show_icons=true&count_private=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMehta0201&layout=compact&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanMehta0201&theme=tokyonight" alt="streak stats">
-</p>
-
----
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/output/github-contribution-grid-snake-dark.svg" />
