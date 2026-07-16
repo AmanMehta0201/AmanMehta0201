@@ -63,4 +63,4 @@ Long-term, I'm working toward relocating to Japan — which is part of why a cou
 </p>
 
 ---
-
+https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/output/github-contribution-grid-snake.svg
