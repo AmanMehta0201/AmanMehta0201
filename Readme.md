@@ -63,6 +63,4 @@ Long-term, I'm working toward relocating to Japan — which is part of why a cou
 </p>
 
 ---
-<div>
-<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/002d32da-418b-4578-a3a7-8a69de1109c6" />
-</div>
+
