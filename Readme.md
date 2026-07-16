@@ -19,9 +19,10 @@
 
 ### About
 
-I build full-stack web apps and AI-powered systems — from booking platforms to RAG pipelines. My stack centers on **Next.js, React, Node.js, and TypeScript** on the web side, **PostgreSQL + Prisma** for data, and **LangGraph/RAG** for the AI layer.
+I'm a full stack developer who likes building things properly, not just the UI, but the database design, the architecture, all of it.
 
-Long-term, I'm working toward relocating to Japan — which is part of why a couple of the projects below exist.
+My main stack is Next.js, React, Node.js, TypeScript, and PostgreSQL with Prisma.
+I like taking a project from idea to something real people use, and I'd rather ship something and fix it based on actual feedback than overthink it upfront.
 
 ---
 
