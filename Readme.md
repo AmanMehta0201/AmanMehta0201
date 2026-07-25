@@ -54,31 +54,7 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" colspan="2">
-      <h3 align="center">Unidrive</h3>
-      <p align="center">
-        <a href="https://github.com/AmanMehta0201/unidrive" target="_blank"><img src="https://img.shields.io/badge/source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-      </p>
-      <p align="center">A dashboard to connect multiple Google accounts and manage aggregated Drive storage in one place.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?logo=next.js" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" alt="Prisma"/>
-        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff" alt="Google Drive"/>
-      </p>
-    </td>
-  </tr>
 </table>
-
----
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanMehta0201&show_icons=true&bg_color=0f172a&text_color=94a3b8&icon_color=6366f1&title_color=818cf8&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanMehta0201&background=0f172a&stroke=334155&ring=818cf8&fire=818cf8&currStreakNum=94a3b8&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b&hide_border=true" width="49%" alt="GitHub Streak" />
-</div>
 
 ---
 
