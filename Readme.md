@@ -6,15 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://amanmehta.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/website-111?style=flat-square&logo=internetexplorer&logoColor=white" alt="Website">
-  </a>
-  <a href="https://linkedin.com/in/amanmehtaaa" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
 ---
 
 ### About
