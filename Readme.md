@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://amanmehta.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=globe&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/website-111?style=flat-square&logo=internetexplorer&logoColor=white" alt="Website">
   </a>
   <a href="https://linkedin.com/in/amanmehtaaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
