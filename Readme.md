@@ -29,17 +29,9 @@ I like taking a project from idea to something real people use, and I'd rather s
 ### 🛠 Tech Stack
 
 <p align="left">
-  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/nextjs.svg" alt="Next.js"></a>
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/react.svg" alt="React"></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/nodejs.svg" alt="Node.js"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/typescript.svg" alt="TypeScript"></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/postgresql.svg" alt="PostgreSQL"></a>
-  <a href="https://www.prisma.io/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/prisma.svg" alt="Prisma"></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/python.svg" alt="Python"></a>
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/tailwind.svg" alt="Tailwind CSS"></a>
-  <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/vercel.svg" alt="Vercel"></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/git.svg" alt="Git"></a>
-  <a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/main/icons/neovim.svg" alt="Neovim"></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,postgresql,prisma,python,tailwind,vercel,git,neovim&perline=11" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
