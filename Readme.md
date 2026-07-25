@@ -1,22 +1,20 @@
 # hey, it's Aman Mehta
 
-<table>
-  <tr>
-    <td width="50%">
-      <h2>👨‍💻 About</h2>
-      <p>I'm a full stack developer who likes building things properly — not just the UI, but the database design and architecture too. I take projects from idea to something people actually use, shipping fast and iterating on real feedback.</p>
-      <p>Currently building <b>Kaiseki</b>, a JLPT study platform. Previously built <b>ChessInit</b>, a chess coaching booking platform.</p>
-    </td>
-    <td width="50%">
-      <h2>🛠 Tech Stack</h2>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,postgresql,prisma,python,tailwind,vercel,git,neovim&perline=4" alt="Tech Stack" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+### 👨‍💻 About
+
+I'm a full stack developer who likes building things properly — not just the UI, but the database design and architecture too. I take projects from idea to something people actually use, shipping fast and iterating on real feedback.
+
+Currently building **Kaiseki**, a JLPT study platform. Previously built **ChessInit**, a chess coaching booking platform.
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,postgresql,prisma,python,tailwind,vercel,git,neovim&perline=11" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
