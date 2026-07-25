@@ -63,7 +63,3 @@ Currently building **Kaiseki**, a JLPT study platform. Previously built **ChessI
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/AmanMehta0201/AmanMehta0201/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<p align="center">
-  <a href="https://amanmehta.is-a.dev" target="_blank"><b>amanmehta.is-a.dev</b></a>
-</p>
