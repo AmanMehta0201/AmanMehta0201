@@ -1,23 +1,4 @@
-<div align="center">
-  <img src="https://amanmehta.is-a.dev/me.png" width="130" style="border-radius: 50%; border: 3px solid #e2e8f0;" alt="Aman Mehta" />
-  <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=24&center=true&vCenter=true&width=500&lines=Aman+Mehta;Full+Stack+Developer;Building+Tomorrow's+Websites" alt="Typing SVG" />
-  <br/><br/>
-  <a href="https://amanmehta.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/amanmehta.is--a.dev-000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website">
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/amanmehtaaa" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/AmanMehta0201" target="_blank">
-    <img src="https://img.shields.io/badge/x-000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:me@amanmehta.is-a.dev">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
----
+# hey, my name is aman
 
 <table>
   <tr>
