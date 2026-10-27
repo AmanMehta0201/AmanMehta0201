@@ -22,7 +22,7 @@ Currently building **Kaiseki**, a JLPT study platform. Previously built **ChessI
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top" style="vertical-align: top; padding-right: 24px;">
       <h3 align="center">Kaiseki</h3>
       <p align="center">
         <a href="https://kaiseki.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
@@ -36,7 +36,7 @@ Currently building **Kaiseki**, a JLPT study platform. Previously built **ChessI
         <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" alt="Prisma"/>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top" style="vertical-align: top; padding-left: 24px;">
       <h3 align="center">ChessInit</h3>
       <p align="center">
         <a href="https://chessinit.dev" target="_blank"><img src="https://img.shields.io/badge/website-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
